@@ -1,2 +1,2 @@
 # cv
-I used HTML to develop this website.
+I used only HTML to develop this website.
